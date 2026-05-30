@@ -1,5 +1,20 @@
-token.json
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OAuth credentials (user-specific)
 credentials.json
-/.vscode
+token.json
+
+# Environment
 .env
+
+# IDE
+/.vscode
+
+# macOS
 .DS_Store
