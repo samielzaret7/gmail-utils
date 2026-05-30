@@ -15,7 +15,7 @@ A reusable Python library for fetching and parsing Gmail messages via the Gmail 
 ## Projects Using This Library
 
 - **[gasoline-receipts](https://github.com/samielzaret7/gasoline-receipts)** — Fetches Journie gas receipts from Gmail, converts to PDF. Uses `format="full"` with immediate mark-as-read.
-- **[Free_Code_Camp_Email_Parser](https://github.com/samielzaret7/Free-Code-Camp-Email-Parser)** — Parses FreeCodeCamp newsletter emails into course items. Uses `format="raw"` with deferred mark-as-read.
+- **[Free-Code-Camp-Email-Parser](https://github.com/samielzaret7/Free-Code-Camp-Email-Parser)** — Parses FreeCodeCamp newsletter emails into course items. Uses `format="raw"` with deferred mark-as-read.
 - **[UpWork-CRM](https://github.com/nlewism/UpWork-CRM)** — Backfills historical Upwork job emails into Supabase. Uses `build_gmail_service` and `get_email_ids` directly.
 
 ## Installation
